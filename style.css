@@ -24,9 +24,9 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(45deg, #c4c4c4, #f8f8f8, #ffffff, #b8b8b8);
+  background: linear-gradient(45deg, #dfdfdf, #fdfdfd,#ffffff,#fdfdfd, #dfdfdf);
   background-size: 100% 100%;
-  animation: complexGradientAnimation 10s ease infinite; /* Combining move and zoom */
+  animation: complexGradientAnimation 15s ease infinite; /* Combining move and zoom */
   color: #333;
 }
 
